@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,rocksdb.org,Meta
 DOMAIN-SUFFIX,whatsapp.com,Meta
 DOMAIN-SUFFIX,whatsapp.net,Meta
 DOMAIN-KEYWORD,.facebook.,Meta
+HOST-SUFFIX, FACEBOOK.COM,Meta
