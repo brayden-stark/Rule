@@ -1,10 +1,9 @@
 {
 "name":"Qi Country Icon", 
 "icons":
-[
-	{"name":"CN", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/CN.png"},  
-	{"name":"HK02", "url":"https:\/\/raw.githubusercontent.com\/Koolson\Qure/master/IconSet/Color/Taiwan.png"}, 
-	{"name":"TW", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/TW.png"}, 
+[ 
+	{"name":"HK02", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/HK.png"}, 
+	{"name":"TW", "url":"https:\/\/raw.githubusercontent.com\/Koolson\Qure/master/IconSet/Color/Taiwan.png"}, 
 	{"name":"JP", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/JP.png"},
 	{"name":"KR", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/KR.png"},
 	{"name":"SG", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/SG.png"},
